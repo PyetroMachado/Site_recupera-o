@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(40, 41, 53);
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+p{
+    text-align:center;
+    color: aliceblue;
+    font-size: 20px;
+}
+header{
+    border: solid black;
+    background-color: rgb(173, 50, 50);
+    padding-left: 5vh;
+}
+
+
+.Banner{
+    margin: 5px;
+    background-color: aliceblue;
+    border: solid rgb(40, 41, 53);
+    border-left-width: 50vh;
+    border-right-width: 50vh;
+    border-bottom-width: 10vh;
+    text-align: center;
+}
+#nome{
+    width: 75vh;
+    height: 30vh;
+} 
+.imagem{
+    margin: 5px;
+    text-align: center;
+}
+
+#personagen{
+    width: 50vh;
+    height: 50vh;
+    background-position: center;
+}
+#Madeline{
+    width: 45vh;
+    height: 45vh;
+    background-position: center;
+}
+.inspiracoes__imagens{
+    display:flex;
+    padding-left: 30vh;
+}
+#undertale__imagem{
+    width: 600px;
+    margin-right: 10px;
+
+
+}
+.lista1{
+
+    margin-left: 40%;
+}
+
+.item__lista1{
+    
+    color: aliceblue;
+    font-size: 20px;
+
+}
+
+.lista__cabeçalho{
+    display: flex;
+    padding-inline-start: 0px;
+}
+.item__cabeçalho{
+    color: aliceblue;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 10px;
+}
