@@ -81,8 +81,9 @@ header{
     padding: 10px;
 
 
-    
+
 }
 #emoji{
-
+    width: 600px;
+    margin-right: 10px;
 }
